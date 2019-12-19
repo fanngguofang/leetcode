@@ -1,1 +1,11 @@
-
+##两数之和
+#自己的答案
+class Solution:
+    def twoSum(self,nums,target)
+    self.sums=sums
+    self.target=target
+    for i in nums:
+        for j in nums:
+            if i+j=target
+        return j
+    return i j
